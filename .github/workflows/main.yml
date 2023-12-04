@@ -13,8 +13,8 @@ jobs:
 
 
     steps:
-      - name: 'Testing Github action'
-        run: pwd
+      - name: 'printing folder cotentes'
+        run: ls
 
-      - name: 'Testing printing'
-        run: echo Samar
+      
+      
